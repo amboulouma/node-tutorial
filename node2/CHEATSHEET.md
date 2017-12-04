@@ -24,3 +24,26 @@
 
 `npm install name_of_package --save`
 
+### Adding scripts in the package.json
+
+`"scripts": { "name_of_script": "what_it_does", ... }`
+
+### Importing npm packages in your javascript
+
+`var Name_of_package = require('name_of_package');`
+
+###
+
+``
+
+###
+
+``
+
+###
+
+``
+
+###
+
+``
