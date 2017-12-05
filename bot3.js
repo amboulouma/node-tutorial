@@ -24,7 +24,10 @@ function tweetIt(){
     
     function gotData(err, data, response) {
         if (err)    console.log("Something went wrong!");
-        else    console.log("It worked!");
+        else {
+            console.log("It worked!");
+            console.log(tweet);
+        }
     }
 
 }
